@@ -1,8 +1,8 @@
 ---
-title: Mode d'emploi pour votre mini-site
+title: "Mode d'emploi pour votre mini-site"
 order: 0
+in_menu: true
 ---
-
 # Comment on le crée ce mini-site ?
 
 ## 1° Créer son mini-site
@@ -19,5 +19,4 @@ order: 0
 - et enfin, **publier la page** pour tout enregistrer !
 
 
-![Le bouton se trouve tout en bas d'une notice](https://beta.framalibre.org/images/capture_bouton_copier_minisite.png)
-
+![Le bouton se trouve tout en bas d'une notice](https://beta.framalibre.org/images/capture_bouton_copier_minisite.png) 
